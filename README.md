@@ -15,7 +15,7 @@ found that the info wasn't accurate and wasn't as simple as I thought.
 # Re-register car that HASN'T been damaged or written off by insurance or law enforcement.
 
 If you have a car that is deregistered but hasn't been involved in an accident or written off by insurance and has just been derego'ed because the rego lapsed then
-the proicess for you is so much simpler!
+the process for you is so much simpler!
 
 All you need to do is book a time for the car to be inspected by a Entry Certifier, now don't be scared by these words. I was a bit confused when I came across this
 title because the car isn't entering the country. But essentially a Entry Certifier does both reregistertation inspections and inspects cars coming into NZ for the first time. 

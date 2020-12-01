@@ -44,7 +44,93 @@ bracket at VINZ in the parking lot.
 They don't mind if you leave the car with them. (They lock up the cars at night) if you have an extreme issue like suspension 
 components then this makes it harder to do in a parking lot and you'll need to pay again to get it towed for repair.
 
-If you need to get something repaired, you'll have to make sure you get it resolved within 21 WORKING DAYS!!!!!!!!!!!
+If you need to get something repaired, you'll have to make sure you get it resolved within 21 WORKING days, yes that's right working days.
+So it gives you a couple of weekends too, otherwise you'll be another $400 out of pocket and have to get another inspection done entirely.
+
+If you're not keen on taking that risk, you might have to do a bit of a search for someone to do a "Pre-Purchase Inspection" on a deregistered car.
+Don't use your typical VTNZ for this job as they'll almost always miss something that a Entry Certifier will catch. Read reviews, blogs ect... 
+
+# Re-register car that HAS been damaged or written off by insurance or law enforcement.
+
+ALLLRIGHT! So this is the part where a lot of people such as car enthusiasts or people who simply like rebuilding cars will hopefully 
+find what I provide here, helpful.
+
+--- Breif Intro ---
+
+So I purchased this BMW E82 135i with the N54 engine in November 2019. A car like this in New Zealand values around  $16k - $20k depending on milage, features ect... 
+I got this E82 for $5k including one key and towing, which I think is an awesome price!
+I found this BMW on Facebook marketplace (of all places...) and went and checked out the car. It had been in a minor accident 
+but for some reason it was enough for insurance to write it off. As a car enthusiast and BMW repairer, it was odd that it was given the boot from the road. But meh 
+what can you do...
+
+I had the intention to track the car and never register it but of course COVID-19 came to the world and told myself I should register it so I could at least enjoy
+it, now that the race tracks have limits on how many people can be on the track and be on-site. COVID sucks!!!!
+
+Back to the car...
+Car was completely drivable and functional. Started first go and had the typical dash lights showing. I only had the engine on for about 10 secs.
+Front end was damaged, grills, radiators, front bumper, radiator support, left headlight and a slight dent on the bonnet.
+
+I had fixed the E82 up completely. Brand new radiators, radiator support, front bumper bar blah blah blah... All OEM spec I had the car completely 
+stripped at one point and managed to remove the engine from the car and do maintenance like replace gaskets, oil
+downpipe upgrades, check turbos, clean frame and engine. Small things like this can make registering the car easier as the Certifier will 
+see all the new parts easily and no leaks ect... Obviously this is completely unnecessary but it could give you browney points.
+
+Skip ahead to September 2020 
+The E82 is 100% looking great! Had taken it for small drives just up and down my driveway (and even a little bit up the road... Don't do this haha)
+Just so I could get it's oil pumping and coolant rushing. 
+I was very confident that the car was ready for an inspection.
+I learnt quickly that the process between a lapsed car and a written off car is different.
+
+---Process---
+
+Stage 1. 
+Get your paperwork together!
+
+1. You will 100% need some sort of proof that the car belongs to you. The insurance papers, invoice ect. You will not get far without this.
+
+2. All or some of the receipts/invoices of parts you purchased - You don't need all of them but just a few to prove the work has been done.
+
+Stage 2.
+Get car to repair certifier
+
+I haven't mentioed this part yet, because this is probably the most complicated part.
+If you have a damaged/written off car you will need to do this process regardless.
+NZTA say you need to go to a Entry Certifier first while this is true for lapsed cars for damaged cars this isn't the case, unless you want to throw $400 away!
+
+NZTA have a PDF of the only Repair Certifiers but this is touch and go and found it was out-dated
+some of the people on the list don't even have an activate phone number anymore. NZTA may update it but at current it's out-dated.
+Use this website instead and find your closest repair certifier https://www.rca.co.nz/repair-certification-guide/
+
+I contacted a repair certifier called John Hindmarch and he's a very nice bloke, very black and white, quick and onto it. But you can contact anyone of them.
+They'll ask you when to bring the car, ask you what happened to the car, has it been fixed and do you have proof!
+
+NOW - here's the complicated part! 
+The Repair Cerifier needs to inspect the car, you obviuosly need a lift/hoist so they can check it out.
+Now in my situation, John is mobile he goes around to places to inspect cars. I didn't have a hoist and he didn't either, so I then had to ring a Panel 
+Beater (recommended by John) that knew what to do and was willing to help with removing the parts and provide a hoist. 
+The Panel Beaters will then contact your repair certifier directly and you leave it to them to inspect.
+
+If you happen to contact a Repair Certifier that has a workshop, this makes life SOOOO much easier for you and your wallet.
+
+1. Book the car with a repair certifier over the phone - Never by email (I learnt that these people aren't very active on the 
+computer and they tend to forget about email bookings.)
+
+2. You'll need to get the car towed or throw it on a tralier and drop it off to your choosen PanelBeaters
+
+3. Your Repair Certifier will then go to the car or inspect at workshop.
+
+4. Give them a full day to complete this as they check the car, head to toe and in extreme detail.
+
+5. Once they complete the inspection, they'll contact you and give you the next steps
+
+  5.A The Car passes - Needs no repairs or attention, they give you a Repair Certificate and report and you continue onto Stage 3 (The most stressful part done!)
+  
+  5.B The Car fails - They'll give you a report of what needs to be done and tell you what needs to be done and you choose to either continue with a repair or 
+      take the car home. Unfortunately the repair CANNOT be completed by you anymore and must be reapired by a qualified panel beater or mechanic.
+      This news can be very heartbreaking but you know it's possible to repair.
+ 
+  5.C Hopefully you don't get this step, The Repair Certifier contacts you reporting that the car failed and cannot be repaired and has sustained 
+      damage beyond repair and won't see the roads again.
 
 
 
